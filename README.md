@@ -1,1 +1,1 @@
-# hello-react
+# juni's-premium-furniture
